@@ -1,0 +1,9 @@
+profiles:
+  default:
+    max_tokens: 50
+
+  throughput:
+    max_tokens: 20
+
+  quality:
+    max_tokens: 100
